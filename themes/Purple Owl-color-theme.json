@@ -1919,7 +1919,7 @@
     "tab.inactiveBackground": "#ffa8c504",
     "tab.inactiveForeground": "#fff9e599",
     "tab.hoverBackground": "#ffa8c518",
-    "tab.hoverForeground": "#00000000",
+    "tab.hoverForeground": "#ffffff",
     "tab.hoverBorder": "#00000000",
     "scrollbarSlider.background": "#5e5e5e38",
     "scrollbarSlider.hoverBackground": "#5e5e5e54",
