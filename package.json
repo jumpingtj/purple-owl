@@ -1,10 +1,11 @@
 {
   "name": "purple-owl",
   "displayName": "Purple Owl",
-  "description": "",
-  "version": "0.0.1",
+  "description": "A simple purple theme for those who just want to code",
+  "publisher": "jumpingtj",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Themes"
