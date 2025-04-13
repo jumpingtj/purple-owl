@@ -1,0 +1,21 @@
+{
+  "name": "purple-owl",
+  "displayName": "Purple Owl",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Purple Owl-color-theme.json"
+      }
+    ]
+  }
+}
