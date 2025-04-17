@@ -4,6 +4,7 @@
   "description": "A simple purple theme for those who just want to code",
   "publisher": "jumpingtj",
   "version": "0.1.0",
+  "repository": "https://github.com/jumpingtj/purple-owl",
   "engines": {
     "vscode": "^1.50.0"
   },
